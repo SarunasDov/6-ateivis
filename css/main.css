@@ -14,7 +14,7 @@ header > img {
     margin-top: 25px;
     float: left;
 }
-div > a {
+header > a {
     float: left;
     color: white;
     margin-top: 25px;
@@ -100,13 +100,18 @@ main > img {
 
 }
 
-h2 > a {
+div > a {
     float: left;
+    margin-top: 35px;
     line-height: 20px;
-    font-size: 15px;
+    font-size: 10px;
     color: white;
+    text-transform: uppercase;
     text-decoration: none;
     border: 2px dotted red;
-    padding: 20px;
+    padding-top: 10px;
+    padding-right: 35px;
+    padding-bottom: 10px;
+    padding-left: 35px;
     border-radius: 25px;
 }
